@@ -146,3 +146,6 @@ Tasks are stored in `data/tasks.json` in a human-readable format:
 ## Authors
 
 Built as a student project demonstrating core Golang concepts including structs, slices, file I/O, goroutines, and modular package design.
+
+# Notely
+A Student Task Manager System
