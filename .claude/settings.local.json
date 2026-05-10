@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Judy Annn Lor\\\\Desktop\\\\Notely\\\\models\")",
+      "Bash(Out-Null)",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Judy Annn Lor\\\\Desktop\\\\Notely\\\\services\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Judy Annn Lor\\\\Desktop\\\\Notely\\\\data\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Judy Annn Lor\\\\Desktop\\\\Notely\\\\utils\")",
+      "Bash(Write-Output \"Directories created.\")",
+      "Bash(go build *)"
+    ]
+  }
+}
